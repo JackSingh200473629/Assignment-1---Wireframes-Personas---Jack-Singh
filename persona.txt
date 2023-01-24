@@ -1,0 +1,22 @@
+Assignment 1 - Wireframes & Personas
+
+- The website I have decided to create a persona and wireframe for Assignment 1 is a website for a new sports Bar/grill 
+in Barrie, Ontario called NoBull that serves classic American style food such as wings, nachos, burgers etc. 
+
+---------------------------------------
+Persona
+---------------------------------------
+Name: Shane Wilfrid.
+Location: Midland, Ontario.
+Age: 30
+Bio: Shane Wilfrid is a die hard leafs fan who loves getting together with his friends on a Saturday night and
+watch Hockey nightA in Canada.
+Values: Shane believes in quality service and an atmosphere where he can support his favorite teams stress-free.
+Gander: Male.
+The purpose of visiting the website: Shane visits the website to make sure that he and his friends are going to be able 
+to watch a leafs game that night and if they the bar serves deep fried pickles and if they have Molson Canadian on tap.
+Interests: Shane enjoys country music, fishing trips, hockey and drinking beer.
+Relationships status: Single.
+Highest level of education: Georgian College - Electrical Techniques Ontario College Certificate program
+Career: Full time electrician in the general Barrie area.
+Annual Salary: $80,000
